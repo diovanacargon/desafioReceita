@@ -1,0 +1,44 @@
+h1{
+    text-align: center;
+    color: black;
+}
+.tituloReceita{
+    margin-top: 100px;
+}
+.menu{
+    color: rgb(238, 105, 207);
+    display: flex;
+    justify-content: center;
+ 
+}
+.menu :hover{
+    color: rgb(240, 75, 190);
+}
+.menu a{
+    text-decoration: none;
+    padding-right: 15px;
+    color: black;
+}
+    
+h2{
+    text-align: center;
+}
+
+#imagem{
+    text-align: center;
+    
+}
+img{
+    border-color: black;
+    border-radius: 50px;
+}
+footer{
+    text-align: center;
+    margin-top: 40px;
+    
+}
+footer a{
+    font-size: 14px;
+    color: black;
+    text-decoration: none;
+}
